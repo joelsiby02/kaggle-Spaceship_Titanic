@@ -11,8 +11,8 @@ The Spaceship Titanic project is a classification problem where the goal is to p
 
 - `space_titanic.ipynb`: Jupyter Notebook containing the code for data exploration, preprocessing, model training, and evaluation.
 - `kaggle_submission.csv`: CSV file containing the final predictions for the test dataset.
-- 'gboosted.pkl' : my model package
-- 'Kaggle.jpeg' : My current leaderBoard Position
+-  `gboosted.pkl` : my model package
+-  `Kaggle.jpeg` : My current leaderBoard Position
 
 ## Approach
 
